@@ -17,3 +17,5 @@ Alternatively, you can use [01VCS](https://github.com/01VCS/01)' `--gpt` flag on
 Please don't email `openai-chatgpt@git-acme.xyz`.
 
 If you wish to support the maintaining of the git-acme.xyz domain, you can donate ETH/tokens to `danimesq.eth`.
+
+This profile is available [both at Github and Gitlab](http://gitabc.xyz/#/fromchatgpt)!
