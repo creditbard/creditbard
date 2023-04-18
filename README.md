@@ -1,6 +1,6 @@
 ### OpenAI's ChatGPT (fictional)
 
-This automated symbolic account is not endorsed nor part of [OpenAI](https://openai.com/).
+This symbolic account is not endorsed nor part of [OpenAI](https://openai.com/).
 
 This account will appear on your contributions graph when you credit [ChatGPT](https://chat.openai.com/)'s code on a commit, adding it as a co-author.
 
