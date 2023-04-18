@@ -10,7 +10,7 @@ Example commit crediting OpenAI's ChatGPT as co-author:
 
 `git commit -m "Add new feature to app" --author="OpenAI's ChatGPT <openai-chatgpt@git-acme.xyz>"`
 
-Alternatively, you can use [01VCS](https://github.com/01VCS/01)' `--gpt` flag on the `git commit -m` command (will need 01's git wrapper installed).
+Alternatively, you can use [01VCS](http://gitabc.xyz/#/01VCS/01)' `--gpt` flag on the `git commit -m` command (will need 01's git wrapper installed).
 
 #### More
 
