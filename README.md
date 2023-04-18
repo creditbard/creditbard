@@ -14,4 +14,4 @@ Example commit crediting OpenAI's ChatGPT as co-author:
 
 Please don't email `openai-chatgpt@git-acme.xyz`.
 
-If you wish to support the maintening of the git-acme.xyz domain, you can donate ETH/tokens to `danimesq.eth`.
+If you wish to support the maintaining of the git-acme.xyz domain, you can donate ETH/tokens to `danimesq.eth`.
